@@ -1,1 +1,1 @@
-# amazon-project
+# This is a simple but pure javascript project trying to clone amazon.com
